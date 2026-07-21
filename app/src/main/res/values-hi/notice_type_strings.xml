@@ -1,0 +1,18 @@
+<resources>
+    <string name="choose_notice_type">नोटिस का प्रकार चुनें</string>
+    <string name="choose_notice_subtitle">आवश्यक आधिकारिक नोटिस प्रारूप चुनें</string>
+
+    <string name="section_94_title">धारा 94 BNSS</string>
+    <string name="section_94_subtitle">बैंक रिकॉर्ड एवं KYC नोटिस</string>
+    <string name="section_94_description">FIR अथवा NCRP शिकायत के लिए बैंक स्टेटमेंट, KYC विवरण और लेन-देन की जानकारी मांगें।</string>
+    <string name="create_section_94">धारा 94 नोटिस बनाएं</string>
+
+    <string name="section_35_title">धारा 35(3) BNSS</string>
+    <string name="section_35_subtitle">बयान / जांच के लिए नोटिस</string>
+    <string name="section_35_description">साइबर अपराध प्रकरण में उपस्थित होने, बयान दर्ज कराने अथवा जांच के लिए नोटिस जारी करें।</string>
+    <string name="create_section_35">धारा 35(3) नोटिस बनाएं</string>
+
+    <string name="official_notice_templates">आधिकारिक नोटिस प्रारूप</string>
+    <string name="section_94_form_coming">धारा 94 BNSS का फॉर्म यहाँ खुलेगा।</string>
+    <string name="section_35_form_coming">धारा 35(3) BNSS का फॉर्म यहाँ खुलेगा।</string>
+</resources>

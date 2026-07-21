@@ -1,0 +1,6 @@
+<resources>
+    <string name="update_notice_status">Update Notice Status</string>
+    <string name="record_status_issued">ISSUED</string>
+    <string name="record_status_completed">COMPLETED</string>
+    <string name="notice_status_updated">Notice status updated successfully.</string>
+</resources>

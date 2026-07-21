@@ -1,0 +1,16 @@
+<resources>
+    <string name="sign_up_title">अधिकारी खाता बनाएँ</string>
+    <string name="sign_up_subtitle">सिस्टम का उपयोग शुरू करने के लिए अपने आधिकारिक ईमेल से पंजीकरण करें।</string>
+    <string name="sign_up_name">पूरा नाम</string>
+    <string name="sign_up_password">पासवर्ड बनाएँ</string>
+    <string name="sign_up_confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="sign_up_create_account">खाता बनाएँ</string>
+    <string name="sign_up_existing_account">पहले से खाता है? साइन इन करें</string>
+    <string name="sign_up_name_required">अपना नाम दर्ज करें।</string>
+    <string name="sign_up_email_required">मान्य ईमेल पता दर्ज करें।</string>
+    <string name="sign_up_password_short">पासवर्ड कम से कम 6 वर्णों का होना चाहिए।</string>
+    <string name="sign_up_password_mismatch">पासवर्ड समान नहीं हैं।</string>
+    <string name="sign_up_creating">खाता बनाया जा रहा है…</string>
+    <string name="sign_up_failed">खाता नहीं बनाया जा सका। किसी अन्य ईमेल से या बाद में फिर प्रयास करें।</string>
+    <string name="sign_up_profile_failed">खाता सेट अप नहीं किया जा सका। कृपया फिर से खाता बनाएँ।</string>
+</resources>

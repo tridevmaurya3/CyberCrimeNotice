@@ -1,0 +1,6 @@
+<resources>
+    <string name="save_to_register">SAVE TO REGISTER</string>
+    <string name="notice_saved_to_register">Notice saved in the local register.</string>
+    <string name="fir_reference">FIR: %1$s</string>
+    <string name="ncrp_reference">NCRP: %1$s</string>
+</resources>

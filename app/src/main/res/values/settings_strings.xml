@@ -1,0 +1,10 @@
+<resources>
+    <string name="open_settings">Open settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="language_settings_subtitle">Choose the language for the entire application.</string>
+    <string name="choose_hindi">हिन्दी</string>
+    <string name="choose_english">English</string>
+    <string name="hindi_description">Use the complete application in Hindi.</string>
+    <string name="english_description">Use the complete application in English.</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="notice_register_subtitle">स्थानीय रजिस्टर में सुरक्षित नोटिस</string>
+    <string name="no_registered_notices">रजिस्टर में अभी कोई नोटिस सुरक्षित नहीं है।</string>
+
+    <string name="record_status_draft">ड्राफ्ट</string>
+
+    <string name="record_type_section94">धारा 94 BNSS</string>
+    <string name="record_type_section35">धारा 35(3) BNSS</string>
+    <string name="record_type_cdr">CDR प्रोफार्मा</string>
+
+    <string name="register_summary_section94">%1$s • बैंक: %2$s</string>
+    <string name="register_summary_section35">%1$s • %2$s</string>
+    <string name="register_summary_cdr">%1$s • %2$s</string>
+
+    <string name="record_created">बनाया गया: %1$s</string>
+    <string name="record_date_unavailable">उपलब्ध नहीं</string>
+</resources>

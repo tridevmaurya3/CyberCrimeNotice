@@ -1,0 +1,21 @@
+<resources>
+    <string name="cdr_preview_to">To,\nThe Nodal Officer (Law Enforcement)\n%1$s</string>
+    <string name="cdr_nodal_officer_default">Concerned Service Provider</string>
+
+    <string name="cdr_preview_subject">Subject: Request for CDR / CAF / Subscriber Information in FIR / Case No. %1$s, Sections: %2$s.</string>
+
+    <string name="cdr_preview_body">The following information is requested for lawful investigation of the case mentioned above. Please provide the available records through the official channel within the prescribed time period.</string>
+
+    <string name="cdr_requesting_office_information">Requesting Office Information</string>
+    <string name="cdr_office_summary">Police Station / Office: %1$s\nSubmitting Officer: %2$s\nRank / Designation: %3$s\nMobile: %4$s\nEmail: %5$s</string>
+
+    <string name="cdr_case_summary">FIR / Case No.: %1$s\nCase Date: %2$s\nApplicable Sections: %3$s</string>
+
+    <string name="cdr_identifier_information">Target Identifier Information</string>
+    <string name="cdr_identifier_summary">Service Provider: %1$s\n\nMobile Number(s) / IMEI / IP Address:\n%2$s</string>
+
+    <string name="cdr_requested_information_title">Information Requested</string>
+    <string name="cdr_period_summary">Required Period: %1$s to %2$s</string>
+
+    <string name="cdr_signature_block">Submitting Officer\n%1$s\n%2$s\n%3$s\nMobile: %4$s\nEmail: %5$s</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="sign_up_title">Create officer account</string>
+    <string name="sign_up_subtitle">Register with your official email to start using the system.</string>
+    <string name="sign_up_name">Full name</string>
+    <string name="sign_up_password">Create password</string>
+    <string name="sign_up_confirm_password">Confirm password</string>
+    <string name="sign_up_create_account">CREATE ACCOUNT</string>
+    <string name="sign_up_existing_account">Already have an account? SIGN IN</string>
+    <string name="sign_up_name_required">Enter your name.</string>
+    <string name="sign_up_email_required">Enter a valid email address.</string>
+    <string name="sign_up_password_short">Password must be at least 6 characters.</string>
+    <string name="sign_up_password_mismatch">Passwords do not match.</string>
+    <string name="sign_up_creating">Creating account…</string>
+    <string name="sign_up_failed">Unable to create the account. Try a different email or try again later.</string>
+    <string name="sign_up_profile_failed">Your account could not be set up. Please try creating it again.</string>
+</resources>

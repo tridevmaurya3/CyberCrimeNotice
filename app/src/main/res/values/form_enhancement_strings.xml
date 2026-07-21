@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="section94_ifsc_code">IFSC Code</string>
+    <string name="section94_lookup_ifsc">LOOK UP IFSC</string>
+    <string name="section94_ifsc_lookup_hint">
+        Enter IFSC code and tap Look Up.
+    </string>
+
+    <string name="section94_account_details_required">
+        Account Details Required
+    </string>
+    <string name="section94_add_more_account">
+        ADD MORE ACCOUNT
+    </string>
+    <string name="section94_remove_account">REMOVE</string>
+    <string name="section94_account_number_with_index">
+        Account Number %1$d
+    </string>
+    <string name="section94_account_details_help">
+        Add every account for which information is required.
+    </string>
+    <string name="section94_minimum_one_account">
+        At least one account number is required.
+    </string>
+
+</resources>

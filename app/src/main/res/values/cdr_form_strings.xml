@@ -1,0 +1,29 @@
+<resources>
+    <string name="cdr_form_title">CDR Proforma</string>
+    <string name="cdr_form_subtitle">Call Detail Record Request Form</string>
+
+    <string name="requesting_office_details">Requesting Office Details</string>
+    <string name="requesting_office_station">Police Station / Office *</string>
+    <string name="submitting_officer_name">Submitting Officer Name *</string>
+
+    <string name="case_information">Case Information</string>
+    <string name="fir_number_cdr">FIR / Case Number *</string>
+    <string name="case_date">FIR / Case Date</string>
+    <string name="applicable_sections_cdr">Applicable Sections *</string>
+
+    <string name="telecom_details">Telecom / Digital Identifier Details</string>
+    <string name="service_provider">Service Provider / Telecom Operator</string>
+    <string name="target_identifier">Target Mobile Number / IMEI / IP Address *</string>
+    <string name="identifier_help">Enter one or more mobile numbers, IMEI numbers or IP addresses on separate lines.</string>
+    <string name="requested_information">Information Required *</string>
+    <string name="requested_information_help">Example: CDR, CAF, subscriber name, address, IP logs, tower location or other lawful records.</string>
+
+    <string name="period_required">Period Required</string>
+    <string name="request_from_date">From Date *</string>
+    <string name="request_to_date">To Date *</string>
+
+    <string name="request_justification">Purpose / Justification *</string>
+    <string name="justification_help">Briefly state why the requested information is required for investigation.</string>
+
+    <string name="cdr_draft_saved">CDR proforma draft saved successfully.</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="section_35_form_title">Section 35(3) BNSS Notice</string>
+    <string name="section_35_form_subtitle">Notice for Appearance / Statement / Enquiry</string>
+
+    <string name="case_details">Case Details</string>
+    <string name="crime_number">Crime / FIR Number *</string>
+    <string name="crime_date">Crime / FIR Date *</string>
+    <string name="legal_sections">Applicable Sections *</string>
+
+    <string name="recipient_details">Notice Recipient Details</string>
+    <string name="recipient_name">Recipient Name *</string>
+    <string name="father_spouse_name">Father / Spouse Name</string>
+    <string name="recipient_address">Complete Address *</string>
+    <string name="recipient_mobile">Mobile Number *</string>
+
+    <string name="transaction_details">Transaction Details</string>
+    <string name="transaction_amount">Transaction Amount *</string>
+    <string name="transaction_date">Transaction Date *</string>
+    <string name="bank_account_number">Bank Account Number *</string>
+    <string name="ifsc_code">IFSC Code</string>
+    <string name="utr_transaction_id">UTR / Transaction ID</string>
+    <string name="ifsc_or_utr_required">Enter IFSC Code or UTR / Transaction ID.</string>
+    <string name="cash_withdrawal_date">Cash / ATM Withdrawal Date</string>
+
+    <string name="appearance_details">Appearance Details</string>
+    <string name="appearance_date">Appearance Date *</string>
+    <string name="appearance_time">Appearance Time *</string>
+    <string name="appearance_place">Place of Appearance *</string>
+    <string name="appearance_place_default">Cyber Crime Police Station, Chandauli</string>
+    <string name="appearance_instruction">The recipient will be directed to appear and cooperate in enquiry.</string>
+
+    <string name="section_35_draft_saved">Section 35(3) notice draft saved successfully.</string>
+</resources>

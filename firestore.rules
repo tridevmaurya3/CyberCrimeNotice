@@ -1,0 +1,42 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function ownsUser(userId) {
+      return signedIn() && request.auth.uid == userId;
+    }
+
+    function activeApprovedUser(userId) {
+      return ownsUser(userId)
+          && get(/databases/$(database)/documents/users/$(userId)).data.approved == true
+          && get(/databases/$(database)/documents/users/$(userId)).data.status == "ACTIVE";
+    }
+
+    function validSelfRegistration() {
+      return request.resource.data.keys().hasOnly([
+            "displayName", "email", "role", "approved", "status", "createdAt"
+          ])
+          && request.resource.data.displayName is string
+          && request.resource.data.email == request.auth.token.email
+          && request.resource.data.role == "OFFICER"
+          && request.resource.data.approved == true
+          && request.resource.data.status == "ACTIVE";
+    }
+
+    // A signed-in officer may create only their own fixed, active profile.
+    // Firebase Admin SDK continues to bypass these client rules.
+    match /users/{userId} {
+      allow get: if ownsUser(userId);
+      allow create: if ownsUser(userId) && validSelfRegistration();
+      allow list, update, delete: if false;
+
+      match /notices/{noticeId} {
+        allow read, write: if activeApprovedUser(userId);
+      }
+    }
+  }
+}

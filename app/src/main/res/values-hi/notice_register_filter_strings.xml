@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="register_search_hint">नोटिस नंबर, एफआईआर, बैंक या प्राप्तकर्ता से खोजें</string>
+    <string name="register_filter_type">नोटिस प्रकार से छाँटें</string>
+    <string name="register_filter_status">स्थिति से छाँटें</string>
+    <string name="register_filter_all">सभी</string>
+    <string name="register_filter_section94">धारा 94</string>
+    <string name="register_filter_section35">धारा 35</string>
+    <string name="register_filter_cdr">सीडीआर</string>
+    <string name="register_filter_result">%1$d नोटिस मिले</string>
+    <string name="register_no_matching_notices">चुनी गई खोज या filter के अनुसार कोई नोटिस नहीं मिला।</string>
+
+</resources>

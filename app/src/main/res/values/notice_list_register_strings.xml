@@ -1,0 +1,17 @@
+<resources>
+    <string name="notice_register_subtitle">Saved local notice records</string>
+    <string name="no_registered_notices">No notice has been saved in the register yet.</string>
+
+    <string name="record_status_draft">DRAFT</string>
+
+    <string name="record_type_section94">SECTION 94 BNSS</string>
+    <string name="record_type_section35">SECTION 35(3) BNSS</string>
+    <string name="record_type_cdr">CDR PROFORMA</string>
+
+    <string name="register_summary_section94">%1$s • Bank: %2$s</string>
+    <string name="register_summary_section35">%1$s • %2$s</string>
+    <string name="register_summary_cdr">%1$s • %2$s</string>
+
+    <string name="record_created">Created: %1$s</string>
+    <string name="record_date_unavailable">Not available</string>
+</resources>

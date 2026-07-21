@@ -1,0 +1,29 @@
+<resources>
+    <string name="draft_for_review">DRAFT FOR REVIEW</string>
+    <string name="notice_document">NOTICE</string>
+    <string name="office_heading">UTTAR PRADESH POLICE</string>
+    <string name="office_subheading">Cyber Crime Police Station, Chandauli</string>
+    <string name="district_line">District: Chandauli, Uttar Pradesh</string>
+    <string name="notice_date">Date: %1$s</string>
+
+    <string name="branch_manager_default">The Branch Manager</string>
+    <string name="preview_to">To,\n%1$s\n%2$s, %3$s\n%4$s</string>
+
+    <string name="subject_fir">Subject: Request for Bank Statement, KYC and Transaction Details — FIR No. %1$s dated %2$s, Sections: %3$s.</string>
+    <string name="subject_ncrp">Subject: Request for Bank Statement, KYC and Transaction Details — NCRP Complaint No. %1$s, Sections: %2$s.</string>
+
+    <string name="body_fir">With reference to the above FIR, you are requested to provide the following certified records and information required for investigation under Section 94 of the Bharatiya Nagarik Suraksha Sanhita, 2023.</string>
+    <string name="body_ncrp">With reference to the above NCRP complaint, you are requested to provide the following certified records and information required for enquiry under Section 94 of the Bharatiya Nagarik Suraksha Sanhita, 2023.</string>
+
+    <string name="information_documents_requested">Information / Documents Requested</string>
+    <string name="request_kyc">1. Certified KYC and account-opening documents for the following account number(s):\n%1$s</string>
+    <string name="request_statement">2. Certified account statement from %1$s to %2$s.</string>
+    <string name="request_transactions">3. Complete debit/credit transaction details, linked mobile number and available beneficiary information related to the above account(s).</string>
+
+    <string name="response_instruction">Please provide the requested information through the official channel within the prescribed period and preserve relevant records until further instructions.</string>
+
+    <string name="signature_block">Investigating Officer\n%1$s\n%2$s\nCyber Crime Police Station, Chandauli\nMobile: %3$s\nEmail: %4$s</string>
+
+    <string name="draft_warning">System-generated draft for review. It must be checked, approved and signed by an authorized officer before issue.</string>
+    <string name="edit_form">EDIT FORM</string>
+</resources>

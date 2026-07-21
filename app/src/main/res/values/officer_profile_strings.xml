@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="officer_profile_title">Officer Profile</string>
+    <string name="officer_profile_subtitle">Save official details once for automatic form filling.</string>
+    <string name="officer_profile_information">Official Officer Details</string>
+    <string name="officer_profile_information_hint">These details will be used in notices and CDR proforma.</string>
+    <string name="officer_profile_name">Officer Name</string>
+    <string name="officer_profile_rank">Rank / Designation</string>
+    <string name="officer_profile_mobile">Mobile Number</string>
+    <string name="officer_profile_email">Official Email</string>
+    <string name="officer_profile_district">District *</string>
+    <string name="officer_profile_station">Police Station / Office *</string>
+    <string name="officer_profile_district_required">Select a district.</string>
+    <string name="officer_profile_station_required">Select a police station / office.</string>
+    <string name="officer_profile_save">SAVE PROFILE</string>
+
+</resources>

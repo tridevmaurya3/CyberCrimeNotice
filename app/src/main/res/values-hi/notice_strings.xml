@@ -1,0 +1,28 @@
+<resources>
+    <string name="up_police_logo">उत्तर प्रदेश पुलिस लोगो</string>
+
+    <string name="notice_management">नोटिस प्रबंधन</string>
+    <string name="search_notice">नोटिस, FIR, नाम या मोबाइल खोजें</string>
+
+    <string name="filter_all">सभी</string>
+    <string name="filter_pending">लंबित</string>
+    <string name="filter_section_94">94 BNSS</string>
+    <string name="filter_section_35">35(3) BNSS</string>
+
+    <string name="recent_notices">हाल के नोटिस</string>
+
+    <string name="notice_94_type">धारा 94 BNSS</string>
+    <string name="notice_94_number">CCN/2026/0001</string>
+    <string name="notice_94_details">FIR: FIR-145/2026 • बैंक स्टेटमेंट और KYC अनुरोध</string>
+    <string name="notice_94_officer">ABC Payments Pvt. Ltd. • निरीक्षक अनिल कुमार</string>
+
+    <string name="notice_35_type">धारा 35(3) BNSS</string>
+    <string name="notice_35_number">CCN/2026/0002</string>
+    <string name="notice_35_details">FIR: FIR-147/2026 • बयान दर्ज करने का नोटिस</string>
+    <string name="notice_35_officer">राहुल ट्रेडर्स • उप निरीक्षक प्रिया सिंह</string>
+
+    <string name="status_pending">लंबित</string>
+    <string name="status_completed">पूर्ण</string>
+
+    <string name="create_new_notice">+ नया नोटिस बनाएं</string>
+</resources>

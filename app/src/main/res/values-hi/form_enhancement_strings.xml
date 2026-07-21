@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="section94_ifsc_code">आईएफएससी कोड</string>
+    <string name="section94_lookup_ifsc">आईएफएससी खोजें</string>
+    <string name="section94_ifsc_lookup_hint">
+        आईएफएससी कोड भरकर खोजें बटन दबाएँ।
+    </string>
+
+    <string name="section94_account_details_required">
+        मांगे गए खाता विवरण
+    </string>
+    <string name="section94_add_more_account">
+        और खाता जोड़ें
+    </string>
+    <string name="section94_remove_account">हटाएँ</string>
+    <string name="section94_account_number_with_index">
+        खाता संख्या %1$d
+    </string>
+    <string name="section94_account_details_help">
+        जिन सभी खातों की सूचना चाहिए, उन्हें अलग-अलग जोड़ें।
+    </string>
+    <string name="section94_minimum_one_account">
+        कम-से-कम एक खाता संख्या आवश्यक है।
+    </string>
+
+</resources>

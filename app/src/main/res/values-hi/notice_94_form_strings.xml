@@ -1,0 +1,43 @@
+<resources>
+    <string name="section_94_form_title">धारा 94 BNSS नोटिस</string>
+    <string name="section_94_form_subtitle">बैंक रिकॉर्ड एवं KYC जानकारी हेतु अनुरोध</string>
+
+    <string name="case_reference">प्रकरण का विवरण</string>
+    <string name="notice_basis">नोटिस का आधार चुनें</string>
+    <string name="basis_fir">FIR</string>
+    <string name="basis_ncrp">NCRP शिकायत</string>
+    <string name="fir_number">FIR संख्या *</string>
+    <string name="fir_date">FIR दिनांक *</string>
+    <string name="ncrp_number">NCRP शिकायत संख्या *</string>
+    <string name="applicable_sections">लागू धाराएं *</string>
+    <string name="date_format_hint">दिनांक प्रारूप: DD/MM/YYYY</string>
+
+    <string name="bank_recipient_details">बैंक / प्राप्तकर्ता का विवरण</string>
+    <string name="branch_manager_name">शाखा प्रबंधक का नाम</string>
+    <string name="bank_name">बैंक का नाम *</string>
+    <string name="branch_name">शाखा का नाम *</string>
+    <string name="bank_branch_address">बैंक शाखा का पता *</string>
+
+    <string name="information_required">मांगी गई जानकारी</string>
+    <string name="account_numbers">खाता संख्या *</string>
+    <string name="account_numbers_help">एक या अधिक खाता संख्या अलग-अलग पंक्ति में लिखें।</string>
+    <string name="statement_from_date">स्टेटमेंट आरंभ दिनांक *</string>
+    <string name="statement_to_date">स्टेटमेंट समाप्ति दिनांक *</string>
+
+    <string name="investigating_officer_details">जांच अधिकारी का विवरण</string>
+    <string name="officer_name">अधिकारी का नाम *</string>
+    <string name="rank_designation">पद / रैंक *</string>
+    <string name="mobile_number">मोबाइल नंबर *</string>
+    <string name="official_email">आधिकारिक ई-मेल</string>
+
+    <string name="police_station_default">साइबर क्राइम पुलिस स्टेशन, चंदौली</string>
+    <string name="district_default">चंदौली, उत्तर प्रदेश</string>
+    <string name="official_email_default">so-cyber.cdi@up.gov.in</string>
+
+    <string name="save_draft">ड्राफ्ट सुरक्षित करें</string>
+    <string name="preview_notice">नोटिस पूर्वावलोकन</string>
+    <string name="required_field">यह जानकारी आवश्यक है</string>
+    <string name="complete_required_fields">कृपया सभी आवश्यक जानकारी भरें।</string>
+    <string name="draft_saved">धारा 94 नोटिस का ड्राफ्ट सुरक्षित हो गया।</string>
+    <string name="preview_form_message">अगले चरण में नोटिस का पूर्वावलोकन बनाया जाएगा।</string>
+</resources>

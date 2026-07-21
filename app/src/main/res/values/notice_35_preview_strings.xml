@@ -1,0 +1,15 @@
+<resources>
+    <string name="section35_preview_to">To,\n%1$s\nS/o, D/o or W/o: %2$s\n%3$s\nMobile: %4$s</string>
+
+    <string name="section35_subject">Subject: Notice under Section 35(3) of BNSS, 2023 — Crime / FIR No. %1$s dated %2$s, Sections: %3$s.</string>
+
+    <string name="section35_body">Whereas an enquiry is being conducted in the above case, your presence and cooperation are required for recording your statement and for clarification regarding the transaction details mentioned below.</string>
+
+    <string name="case_reference_information">Case Reference Information</string>
+    <string name="section35_case_reference">Crime / FIR No.: %1$s\nCrime / FIR Date: %2$s\nApplicable Sections: %3$s</string>
+
+    <string name="transaction_information">Transaction Information</string>
+    <string name="section35_transaction_summary">Transaction Amount: %1$s\nTransaction Date: %2$s\nBank Name: %3$s\nAccount Number: %4$s\nIFSC Code: %5$s\nUTR / Transaction ID: %6$s\nCash / ATM Withdrawal Date: %7$s</string>
+
+    <string name="appearance_direction">You are directed to appear before the undersigned on %1$s at %2$s at %3$s and cooperate in the enquiry. Please carry relevant documents and identity proof.</string>
+</resources>

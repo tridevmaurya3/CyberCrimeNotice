@@ -1,0 +1,6 @@
+<resources>
+    <string name="save_to_register">रजिस्टर में सुरक्षित करें</string>
+    <string name="notice_saved_to_register">नोटिस स्थानीय रजिस्टर में सुरक्षित हो गया।</string>
+    <string name="fir_reference">FIR: %1$s</string>
+    <string name="ncrp_reference">NCRP: %1$s</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="choose_notice_type">Choose Notice Type</string>
+    <string name="choose_notice_subtitle">Select the required official notice template</string>
+
+    <string name="section_94_title">Section 94 BNSS</string>
+    <string name="section_94_subtitle">Bank Record and KYC Notice</string>
+    <string name="section_94_description">Request bank statement, KYC details and transaction information for an FIR or NCRP complaint.</string>
+    <string name="create_section_94">CREATE SECTION 94 NOTICE</string>
+
+    <string name="section_35_title">Section 35(3) BNSS</string>
+    <string name="section_35_subtitle">Notice for Statement / Enquiry</string>
+    <string name="section_35_description">Issue a notice for appearance, statement recording or enquiry in a cyber-crime case.</string>
+    <string name="create_section_35">CREATE SECTION 35(3) NOTICE</string>
+
+    <string name="official_notice_templates">Official Notice Templates</string>
+    <string name="section_94_form_coming">Section 94 BNSS form will open here.</string>
+    <string name="section_35_form_coming">Section 35(3) BNSS form will open here.</string>
+</resources>

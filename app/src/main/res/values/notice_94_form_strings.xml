@@ -1,0 +1,43 @@
+<resources>
+    <string name="section_94_form_title">Section 94 BNSS Notice</string>
+    <string name="section_94_form_subtitle">Bank Record and KYC Information Request</string>
+
+    <string name="case_reference">Case Reference</string>
+    <string name="notice_basis">Notice is based on</string>
+    <string name="basis_fir">FIR</string>
+    <string name="basis_ncrp">NCRP Complaint</string>
+    <string name="fir_number">FIR Number *</string>
+    <string name="fir_date">FIR Date *</string>
+    <string name="ncrp_number">NCRP Complaint Number *</string>
+    <string name="applicable_sections">Applicable Sections *</string>
+    <string name="date_format_hint">Use date format: DD/MM/YYYY</string>
+
+    <string name="bank_recipient_details">Bank / Recipient Details</string>
+    <string name="branch_manager_name">Branch Manager Name</string>
+    <string name="bank_name">Bank Name *</string>
+    <string name="branch_name">Branch Name *</string>
+    <string name="bank_branch_address">Bank Branch Address *</string>
+
+    <string name="information_required">Information Required</string>
+    <string name="account_numbers">Account Number(s) *</string>
+    <string name="account_numbers_help">Enter one or more account numbers, separated by a new line.</string>
+    <string name="statement_from_date">Statement From Date *</string>
+    <string name="statement_to_date">Statement To Date *</string>
+
+    <string name="investigating_officer_details">Investigating Officer Details</string>
+    <string name="officer_name">Officer Name *</string>
+    <string name="rank_designation">Rank / Designation *</string>
+    <string name="mobile_number">Mobile Number *</string>
+    <string name="official_email">Official Email</string>
+
+    <string name="police_station_default">Cyber Crime Police Station, Chandauli</string>
+    <string name="district_default">Chandauli, Uttar Pradesh</string>
+    <string name="official_email_default">so-cyber.cdi@up.gov.in</string>
+
+    <string name="save_draft">SAVE DRAFT</string>
+    <string name="preview_notice">PREVIEW NOTICE</string>
+    <string name="required_field">Required field</string>
+    <string name="complete_required_fields">Please complete all required fields.</string>
+    <string name="draft_saved">Section 94 notice draft saved successfully.</string>
+    <string name="preview_form_message">Notice preview will be created in the next step.</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607862391487",
+    "project_id": "cybernoticeapp",
+    "storage_bucket": "cybernoticeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607862391487:android:cefe26e1aa13166e763c0a",
+        "android_client_info": {
+          "package_name": "in.gov.chandauli.cybernotice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWAVWXX0ConxgthDr7m2ZwWlTeED-JRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

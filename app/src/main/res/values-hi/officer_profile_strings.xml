@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="officer_profile_title">अधिकारी प्रोफाइल</string>
+    <string name="officer_profile_subtitle">आधिकारिक विवरण एक बार भरें, सभी forms में अपने-आप आएंगे।</string>
+    <string name="officer_profile_information">अधिकारी का आधिकारिक विवरण</string>
+    <string name="officer_profile_information_hint">ये विवरण नोटिस और सीडीआर प्रोफार्मा में उपयोग होंगे।</string>
+    <string name="officer_profile_name">अधिकारी का नाम</string>
+    <string name="officer_profile_rank">पद / रैंक</string>
+    <string name="officer_profile_mobile">मोबाइल नंबर</string>
+    <string name="officer_profile_email">आधिकारिक ईमेल</string>
+    <string name="officer_profile_district">जिला *</string>
+    <string name="officer_profile_station">पुलिस थाना / कार्यालय *</string>
+    <string name="officer_profile_district_required">कृपया जिला चुनें।</string>
+    <string name="officer_profile_station_required">कृपया पुलिस थाना / कार्यालय चुनें।</string>
+    <string name="officer_profile_save">प्रोफाइल सहेजें</string>
+
+</resources>

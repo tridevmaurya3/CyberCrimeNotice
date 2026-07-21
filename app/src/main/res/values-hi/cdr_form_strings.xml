@@ -1,0 +1,29 @@
+<resources>
+    <string name="cdr_form_title">CDR प्रोफार्मा</string>
+    <string name="cdr_form_subtitle">कॉल डिटेल रिकॉर्ड अनुरोध फॉर्म</string>
+
+    <string name="requesting_office_details">अनुरोधकर्ता कार्यालय का विवरण</string>
+    <string name="requesting_office_station">पुलिस स्टेशन / कार्यालय *</string>
+    <string name="submitting_officer_name">प्रस्तुतकर्ता अधिकारी का नाम *</string>
+
+    <string name="case_information">प्रकरण का विवरण</string>
+    <string name="fir_number_cdr">FIR / प्रकरण संख्या *</string>
+    <string name="case_date">FIR / प्रकरण दिनांक</string>
+    <string name="applicable_sections_cdr">लागू धाराएं *</string>
+
+    <string name="telecom_details">टेलीकॉम / डिजिटल पहचानकर्ता विवरण</string>
+    <string name="service_provider">सेवा प्रदाता / टेलीकॉम ऑपरेटर</string>
+    <string name="target_identifier">मोबाइल नंबर / IMEI / IP पता *</string>
+    <string name="identifier_help">एक या अधिक मोबाइल नंबर, IMEI नंबर अथवा IP पता अलग-अलग पंक्ति में लिखें।</string>
+    <string name="requested_information">मांगी गई जानकारी *</string>
+    <string name="requested_information_help">उदाहरण: CDR, CAF, ग्राहक का नाम, पता, IP लॉग, टावर लोकेशन अथवा अन्य वैधानिक अभिलेख।</string>
+
+    <string name="period_required">आवश्यक अवधि</string>
+    <string name="request_from_date">आरंभ दिनांक *</string>
+    <string name="request_to_date">समाप्ति दिनांक *</string>
+
+    <string name="request_justification">उद्देश्य / औचित्य *</string>
+    <string name="justification_help">विवेचना हेतु मांगी गई जानकारी की आवश्यकता का संक्षिप्त कारण लिखें।</string>
+
+    <string name="cdr_draft_saved">CDR प्रोफार्मा का ड्राफ्ट सुरक्षित हो गया।</string>
+</resources>

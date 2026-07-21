@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="register_search_hint">Search by notice no., FIR, bank or recipient</string>
+    <string name="register_filter_type">FILTER BY NOTICE TYPE</string>
+    <string name="register_filter_status">FILTER BY STATUS</string>
+    <string name="register_filter_all">All</string>
+    <string name="register_filter_section94">Section 94</string>
+    <string name="register_filter_section35">Section 35</string>
+    <string name="register_filter_cdr">CDR</string>
+    <string name="register_filter_result">%1$d notice(s) found</string>
+    <string name="register_no_matching_notices">No notices match the selected search or filters.</string>
+
+</resources>

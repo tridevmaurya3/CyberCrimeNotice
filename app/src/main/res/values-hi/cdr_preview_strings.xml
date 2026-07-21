@@ -1,0 +1,21 @@
+<resources>
+    <string name="cdr_preview_to">सेवा में,\nनोडल अधिकारी (विधि प्रवर्तन)\n%1$s</string>
+    <string name="cdr_nodal_officer_default">संबंधित सेवा प्रदाता</string>
+
+    <string name="cdr_preview_subject">विषय: FIR / प्रकरण संख्या %1$s एवं धाराएं %2$s के संबंध में CDR / CAF / ग्राहक जानकारी उपलब्ध कराने हेतु अनुरोध।</string>
+
+    <string name="cdr_preview_body">उपरोक्त प्रकरण की वैधानिक विवेचना हेतु निम्न जानकारी मांगी जाती है। कृपया निर्धारित अवधि में आधिकारिक माध्यम से उपलब्ध अभिलेख प्रदान करने का कष्ट करें।</string>
+
+    <string name="cdr_requesting_office_information">अनुरोधकर्ता कार्यालय की जानकारी</string>
+    <string name="cdr_office_summary">पुलिस स्टेशन / कार्यालय: %1$s\nप्रस्तुतकर्ता अधिकारी: %2$s\nरैंक / पद: %3$s\nमोबाइल: %4$s\nई-मेल: %5$s</string>
+
+    <string name="cdr_case_summary">FIR / प्रकरण संख्या: %1$s\nप्रकरण दिनांक: %2$s\nलागू धाराएं: %3$s</string>
+
+    <string name="cdr_identifier_information">लक्षित पहचानकर्ता की जानकारी</string>
+    <string name="cdr_identifier_summary">सेवा प्रदाता: %1$s\n\nमोबाइल नंबर / IMEI / IP पता:\n%2$s</string>
+
+    <string name="cdr_requested_information_title">मांगी गई जानकारी</string>
+    <string name="cdr_period_summary">आवश्यक अवधि: %1$s से %2$s</string>
+
+    <string name="cdr_signature_block">प्रस्तुतकर्ता अधिकारी\n%1$s\n%2$s\n%3$s\nमोबाइल: %4$s\nई-मेल: %5$s</string>
+</resources>

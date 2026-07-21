@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CyberCrimeNotice" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Office 365 Theme Colors -->
+        <item name="colorPrimary">@color/office_blue</item>
+        <item name="colorPrimaryVariant">@color/office_blue_dark</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Surface & Background -->
+        <item name="colorSurface">@color/office_surface</item>
+        <item name="android:windowBackground">@color/office_background</item>
+        <item name="colorOnSurface">@color/office_text_primary</item>
+
+        <!-- Status Bar Styling -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/office_blue</item>
+
+        <!-- Shape Appearance for Fluent Design -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Office.Button</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Office.Card</item>
+    </style>
+
+    <style name="Theme.CyberCrimeNotice" parent="Base.Theme.CyberCrimeNotice" />
+
+    <!-- Fluent Design: बटनों के कोने केवल 4dp मुड़े हुए -->
+    <style name="ShapeAppearance.Office.Button" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">4dp</item>
+    </style>
+
+    <!-- Fluent Design: कार्ड्स के कोने केवल 8dp मुड़े हुए -->
+    <style name="ShapeAppearance.Office.Card" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+</resources>

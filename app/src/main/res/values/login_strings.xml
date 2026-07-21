@@ -1,0 +1,22 @@
+<resources>
+    <string name="login_app_title">Uttar Pradesh Police Notice Management System</string>
+    <string name="login_subtitle">Official officer login</string>
+    <string name="login_email">Official Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_forgot_password">Forgot password?</string>
+    <string name="login_remember_me">Keep me signed in on this device</string>
+    <string name="login_sign_in">SIGN IN</string>
+    <string name="login_no_account">New officer?</string>
+    <string name="login_sign_up">CREATE ACCOUNT</string>
+    <string name="login_reset_password_title">Reset password</string>
+    <string name="login_reset_password_message">Enter your account email and we’ll send a password-reset link.</string>
+    <string name="login_send_reset_link">SEND LINK</string>
+    <string name="login_reset_link_sent">A password-reset link has been sent to your email.</string>
+    <string name="login_reset_password_failed">Unable to send the reset link. Check the email and try again.</string>
+    <string name="login_required">Enter your official email and password.</string>
+    <string name="login_access_denied">This account is not approved or is inactive. Contact the administrator.</string>
+    <string name="login_failed">Sign-in failed. Check your email and password.</string>
+    <string name="login_checking_access">Checking account approval…</string>
+    <string name="login_email_required">Official email is required.</string>
+    <string name="login_password_required">Password is required.</string>
+</resources>

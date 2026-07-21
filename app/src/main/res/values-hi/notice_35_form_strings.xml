@@ -1,0 +1,33 @@
+<resources>
+    <string name="section_35_form_title">धारा 35(3) BNSS नोटिस</string>
+    <string name="section_35_form_subtitle">उपस्थिति / बयान / जांच हेतु नोटिस</string>
+
+    <string name="case_details">प्रकरण का विवरण</string>
+    <string name="crime_number">अपराध / FIR संख्या *</string>
+    <string name="crime_date">अपराध / FIR दिनांक *</string>
+    <string name="legal_sections">लागू धाराएं *</string>
+
+    <string name="recipient_details">नोटिस प्राप्तकर्ता का विवरण</string>
+    <string name="recipient_name">प्राप्तकर्ता का नाम *</string>
+    <string name="father_spouse_name">पिता / पति का नाम</string>
+    <string name="recipient_address">पूरा पता *</string>
+    <string name="recipient_mobile">मोबाइल नंबर *</string>
+
+    <string name="transaction_details">लेन-देन का विवरण</string>
+    <string name="transaction_amount">लेन-देन की राशि *</string>
+    <string name="transaction_date">लेन-देन की दिनांक *</string>
+    <string name="bank_account_number">बैंक खाता संख्या *</string>
+    <string name="ifsc_code">IFSC कोड</string>
+    <string name="utr_transaction_id">UTR / ट्रांजैक्शन आईडी</string>
+    <string name="ifsc_or_utr_required">IFSC कोड अथवा UTR / ट्रांजैक्शन आईडी भरें।</string>
+    <string name="cash_withdrawal_date">नकद / ATM निकासी दिनांक</string>
+
+    <string name="appearance_details">उपस्थिति का विवरण</string>
+    <string name="appearance_date">उपस्थिति की दिनांक *</string>
+    <string name="appearance_time">उपस्थिति का समय *</string>
+    <string name="appearance_place">उपस्थिति का स्थान *</string>
+    <string name="appearance_place_default">साइबर क्राइम पुलिस स्टेशन, चंदौली</string>
+    <string name="appearance_instruction">प्राप्तकर्ता को उपस्थित होकर जांच में सहयोग करने हेतु निर्देशित किया जाएगा।</string>
+
+    <string name="section_35_draft_saved">धारा 35(3) नोटिस का ड्राफ्ट सुरक्षित हो गया।</string>
+</resources>

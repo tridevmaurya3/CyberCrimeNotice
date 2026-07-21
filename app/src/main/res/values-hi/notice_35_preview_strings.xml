@@ -1,0 +1,15 @@
+<resources>
+    <string name="section35_preview_to">सेवा में,\n%1$s\nपुत्र / पुत्री / पत्नी: %2$s\n%3$s\nमोबाइल: %4$s</string>
+
+    <string name="section35_subject">विषय: अपराध / FIR संख्या %1$s दिनांक %2$s एवं धाराएं %3$s के संबंध में भारतीय नागरिक सुरक्षा संहिता, 2023 की धारा 35(3) के अंतर्गत नोटिस।</string>
+
+    <string name="section35_body">उपरोक्त प्रकरण में जांच की जा रही है। आपका बयान दर्ज करने तथा नीचे वर्णित लेन-देन के संबंध में स्पष्टीकरण हेतु आपकी उपस्थिति एवं सहयोग आवश्यक है।</string>
+
+    <string name="case_reference_information">प्रकरण संबंधी जानकारी</string>
+    <string name="section35_case_reference">अपराध / FIR संख्या: %1$s\nअपराध / FIR दिनांक: %2$s\nलागू धाराएं: %3$s</string>
+
+    <string name="transaction_information">लेन-देन की जानकारी</string>
+    <string name="section35_transaction_summary">लेन-देन की राशि: %1$s\nलेन-देन की दिनांक: %2$s\nबैंक का नाम: %3$s\nखाता संख्या: %4$s\nIFSC कोड: %5$s\nUTR / ट्रांजैक्शन आईडी: %6$s\nनकद / ATM निकासी दिनांक: %7$s</string>
+
+    <string name="appearance_direction">आपको निर्देशित किया जाता है कि दिनांक %1$s को समय %2$s बजे %3$s पर अधोहस्ताक्षरी के समक्ष उपस्थित होकर जांच में सहयोग करें। कृपया संबंधित अभिलेख एवं पहचान पत्र साथ लाएं।</string>
+</resources>

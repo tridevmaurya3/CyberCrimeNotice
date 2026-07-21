@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Office 365 Theme Colors जो थीम के लिए ज़रूरी हैं -->
+    <color name="office_blue">#0078D4</color>
+    <color name="office_blue_dark">#005A9E</color>
+    <color name="office_surface">#FFFFFF</color>
+    <color name="office_background">#F3F2F1</color>
+    <color name="office_text_primary">#323130</color>
+    <color name="office_text_secondary">#605E5C</color>
+    <color name="office_outline">#8A8886</color>
+</resources>

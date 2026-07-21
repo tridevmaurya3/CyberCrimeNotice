@@ -1,0 +1,22 @@
+<resources>
+    <string name="login_forgot_password">पासवर्ड भूल गए?</string>
+    <string name="login_no_account">नए अधिकारी हैं?</string>
+    <string name="login_sign_up">खाता बनाएँ</string>
+    <string name="login_reset_password_title">पासवर्ड रीसेट करें</string>
+    <string name="login_reset_password_message">अपना खाता ईमेल दर्ज करें। हम पासवर्ड रीसेट करने का लिंक भेजेंगे।</string>
+    <string name="login_send_reset_link">लिंक भेजें</string>
+    <string name="login_reset_link_sent">पासवर्ड रीसेट करने का लिंक आपके ईमेल पर भेज दिया गया है।</string>
+    <string name="login_reset_password_failed">रीसेट लिंक नहीं भेजा जा सका। ईमेल जाँचकर पुनः प्रयास करें।</string>
+    <string name="login_app_title">उत्तर प्रदेश पुलिस नोटिस प्रबंधन प्रणाली</string>
+    <string name="login_subtitle">अधिकृत अधिकारी लॉगिन</string>
+    <string name="login_email">आधिकारिक ईमेल</string>
+    <string name="login_password">पासवर्ड</string>
+    <string name="login_remember_me">इस डिवाइस पर मुझे लॉगिन रखें</string>
+    <string name="login_sign_in">लॉगिन करें</string>
+    <string name="login_required">अपना आधिकारिक ईमेल और पासवर्ड दर्ज करें।</string>
+    <string name="login_access_denied">यह खाता स्वीकृत नहीं है या निष्क्रिय है। प्रशासक से संपर्क करें।</string>
+    <string name="login_failed">लॉगिन नहीं हो सका। ईमेल और पासवर्ड जांचें।</string>
+    <string name="login_checking_access">खाते की स्वीकृति जांची जा रही है…</string>
+    <string name="login_email_required">आधिकारिक ईमेल आवश्यक है।</string>
+    <string name="login_password_required">पासवर्ड आवश्यक है।</string>
+</resources>

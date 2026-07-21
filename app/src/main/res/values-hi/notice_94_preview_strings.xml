@@ -1,0 +1,29 @@
+<resources>
+    <string name="draft_for_review">समीक्षा हेतु ड्राफ्ट</string>
+    <string name="notice_document">नोटिस</string>
+    <string name="office_heading">उत्तर प्रदेश पुलिस</string>
+    <string name="office_subheading">साइबर क्राइम पुलिस स्टेशन, चंदौली</string>
+    <string name="district_line">जिला: चंदौली, उत्तर प्रदेश</string>
+    <string name="notice_date">दिनांक: %1$s</string>
+
+    <string name="branch_manager_default">शाखा प्रबंधक</string>
+    <string name="preview_to">सेवा में,\n%1$s\n%2$s, %3$s\n%4$s</string>
+
+    <string name="subject_fir">विषय: FIR संख्या %1$s दिनांक %2$s एवं धाराएं %3$s के संबंध में बैंक स्टेटमेंट, KYC एवं लेन-देन विवरण उपलब्ध कराने हेतु।</string>
+    <string name="subject_ncrp">विषय: NCRP शिकायत संख्या %1$s एवं धाराएं %2$s के संबंध में बैंक स्टेटमेंट, KYC एवं लेन-देन विवरण उपलब्ध कराने हेतु।</string>
+
+    <string name="body_fir">उपरोक्त FIR के संदर्भ में, भारतीय नागरिक सुरक्षा संहिता, 2023 की धारा 94 के अंतर्गत विवेचना हेतु निम्न प्रमाणित अभिलेख एवं जानकारी उपलब्ध कराने का अनुरोध है।</string>
+    <string name="body_ncrp">उपरोक्त NCRP शिकायत के संदर्भ में, भारतीय नागरिक सुरक्षा संहिता, 2023 की धारा 94 के अंतर्गत जांच हेतु निम्न प्रमाणित अभिलेख एवं जानकारी उपलब्ध कराने का अनुरोध है।</string>
+
+    <string name="information_documents_requested">मांगी गई जानकारी / अभिलेख</string>
+    <string name="request_kyc">1. निम्न खाता संख्या के प्रमाणित KYC एवं खाता खोलने संबंधी अभिलेख:\n%1$s</string>
+    <string name="request_statement">2. दिनांक %1$s से %2$s तक का प्रमाणित बैंक स्टेटमेंट।</string>
+    <string name="request_transactions">3. उपरोक्त खाते से संबंधित पूर्ण डेबिट/क्रेडिट लेन-देन विवरण, लिंक मोबाइल नंबर एवं उपलब्ध लाभार्थी की जानकारी।</string>
+
+    <string name="response_instruction">कृपया निर्धारित अवधि में आधिकारिक माध्यम से मांगी गई जानकारी उपलब्ध कराएं तथा अगले निर्देश तक संबंधित अभिलेख सुरक्षित रखें।</string>
+
+    <string name="signature_block">विवेचक अधिकारी\n%1$s\n%2$s\nसाइबर क्राइम पुलिस स्टेशन, चंदौली\nमोबाइल: %3$s\nई-मेल: %4$s</string>
+
+    <string name="draft_warning">यह सिस्टम द्वारा बनाया गया समीक्षा ड्राफ्ट है। इसे जारी करने से पूर्व अधिकृत अधिकारी द्वारा जांच, अनुमोदन एवं हस्ताक्षर आवश्यक हैं।</string>
+    <string name="edit_form">फॉर्म संपादित करें</string>
+</resources>

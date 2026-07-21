@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">उत्तर प्रदेश पुलिस नोटिस प्रबंधन प्रणाली</string>
+
+    <string name="station_name">साइबर क्राइम पुलिस स्टेशन</string>
+    <string name="district_name">चंदौली, उत्तर प्रदेश</string>
+    <string name="language_short">हि</string>
+    <string name="dashboard_app_heading">उत्तर प्रदेश पुलिस नोटिस प्रबंधन प्रणाली</string>
+    <string name="dashboard_location_pending">अधिकारी प्रोफाइल में जिला और थाना चुनें</string>
+
+    <string name="welcome_user">नमस्ते, %1$s</string>
+    <string name="date_label">दिनांक: %1$s</string>
+
+    <string name="quick_statistics">त्वरित जानकारी</string>
+    <string name="total_notices">कुल नोटिस</string>
+    <string name="pending_notices">लंबित नोटिस</string>
+    <string name="completed_notices">पूर्ण नोटिस</string>
+    <string name="active_officers">सक्रिय अधिकारी</string>
+
+    <string name="quick_actions">त्वरित कार्य</string>
+    <string name="manage_notices">नोटिस प्रबंधन</string>
+    <string name="cdr_proforma">सीडीआर प्रोफार्मा</string>
+
+    <string name="latest_activity">हाल की गतिविधि</string>
+    <string name="activity_section_94">CCN/2026/0001 • धारा 94 BNSS बैंक नोटिस बनाया गया</string>
+    <string name="activity_section_35">CCN/2026/0002 • धारा 35(3) BNSS नोटिस पूर्ण किया गया</string>
+
+    <string name="secure_logout">सुरक्षित लॉगआउट</string>
+    <string name="cr_form_title">न्यायालय रिलीज आदेश</string>
+    <string name="cr_letter_details">पत्र का विवरण</string>
+    <string name="cr_letter_year">पत्र वर्ष (जैसे 2026)</string>
+    <string name="cr_letter_date">पत्र दिनांक</string>
+    <string name="cr_nodal_bank">नोडल बैंक का नाम</string>
+    <string name="cr_applicant_details">आवेदक का विवरण</string>
+    <string name="cr_applicant_name">आवेदक का नाम</string>
+    <string name="cr_father_name">पिता का नाम</string>
+    <string name="cr_address">पूरा पता</string>
+    <string name="cr_applicant_account">आवेदक का खाता सं०</string>
+    <string name="cr_bank_name">बैंक का नाम</string>
+    <string name="cr_ifsc_code">आईएफएससी कोड</string>
+    <string name="cr_case_fraud_details">केस और फ्रॉड विवरण</string>
+    <string name="cr_fraud_date">फ्रॉड की तिथि</string>
+    <string name="cr_total_fraud_amount">कुल फ्रॉड राशि</string>
+    <string name="cr_ncrp_no">शिकायत संख्या (NCRP)</string>
+    <string name="cr_fir_no">मु०अ०सं० (FIR)</string>
+    <string name="cr_sections">धाराएं</string>
+    <string name="cr_report_type">रिपोर्ट का प्रकार</string>
+    <string name="cr_report_sent_date">रिपोर्ट प्रेषित तिथि</string>
+    <string name="cr_hold_amount">होल्ड धनराशि</string>
+    <string name="cr_release_amount">वापस की जाने वाली धनराशि</string>
+    <string name="cr_transaction_details">लेन-देन का विवरण</string>
+    <string name="cr_add_more">➕ और जोड़ें (ADD MORE)</string>
+    <string name="cr_generate_pdf">पीडीएफ बनाएं</string>
+    <string name="cr_draft_saved">ड्राफ्ट सफलतापूर्वक सहेजा गया!</string>
+    <string name="dashboard_location_selected">%1$s • जिला: %2$s, उत्तर प्रदेश</string>
+</resources>

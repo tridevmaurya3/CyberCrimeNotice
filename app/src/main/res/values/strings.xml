@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Uttar Pradesh Police Notice Management System</string>
+
+    <string name="station_name">Chandauli Cyber Crime Police Station</string>
+    <string name="district_name">Chandauli, Uttar Pradesh</string>
+    <string name="language_short">EN</string>
+    <string name="dashboard_app_heading">UTTAR PRADESH POLICE NOTICE MANAGEMENT SYSTEM</string>
+    <string name="dashboard_location_pending">Select district and police station in Officer Profile</string>
+    <string name="dashboard_location_selected">%1$s • District: %2$s, Uttar Pradesh</string>
+
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="date_label">Date: %1$s</string>
+
+    <string name="quick_statistics">Quick Statistics</string>
+    <string name="total_notices">Total Notices</string>
+    <string name="pending_notices">Pending Notices</string>
+    <string name="completed_notices">Completed Notices</string>
+    <string name="active_officers">Active Officers</string>
+
+    <string name="quick_actions">Quick Actions</string>
+    <string name="manage_notices">MANAGE NOTICES</string>
+    <string name="cdr_proforma">CDR PROFORMA</string>
+
+    <string name="latest_activity">Latest Activity</string>
+    <string name="activity_section_94">CCN/2026/0001 • Section 94 BNSS Bank Notice created</string>
+    <string name="activity_section_35">CCN/2026/0002 • Section 35(3) BNSS Notice completed</string>
+
+    <string name="secure_logout">SECURE LOGOUT</string>
+    <string name="cr_form_title">Court Release Order</string>
+    <string name="cr_letter_details">Letter Details</string>
+    <string name="cr_letter_year">Letter Year (e.g. 2026)</string>
+    <string name="cr_letter_date">Letter Date</string>
+    <string name="cr_nodal_bank">Nodal Bank Name</string>
+    <string name="cr_applicant_details">Applicant Details</string>
+    <string name="cr_applicant_name">Applicant Name</string>
+    <string name="cr_father_name">Father\'s Name</string>
+    <string name="cr_address">Full Address</string>
+    <string name="cr_applicant_account">Applicant A/c Number</string>
+    <string name="cr_bank_name">Bank Name</string>
+    <string name="cr_ifsc_code">IFSC Code</string>
+    <string name="cr_case_fraud_details">Case &amp; Fraud Details</string>
+    <string name="cr_fraud_date">Fraud Date</string>
+    <string name="cr_total_fraud_amount">Total Fraud Amount</string>
+    <string name="cr_ncrp_no">NCRP Ack. NO.</string>
+    <string name="cr_fir_no">FIR Number</string>
+    <string name="cr_sections">Sections</string>
+    <string name="cr_report_type">Report Type</string>
+    <string name="cr_report_sent_date">Report Sent Date</string>
+    <string name="cr_hold_amount">Hold Amount</string>
+    <string name="cr_release_amount">Release Amount</string>
+    <string name="cr_transaction_details">Transaction Details</string>
+    <string name="cr_add_more">➕ ADD MORE TRANSACTION</string>
+    <string name="cr_generate_pdf">GENERATE PDF</string>
+    <string name="cr_draft_saved">Draft saved successfully!</string>
+</resources>

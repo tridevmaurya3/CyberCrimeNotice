@@ -1,0 +1,3 @@
+<resources>
+    <string name="notice_reference_with_date">Notice No.: %1$s\nDate: %2$s</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="up_police_logo">UP Police Logo</string>
+
+    <string name="notice_management">Notice Management</string>
+    <string name="search_notice">Search notice, FIR, name or mobile</string>
+
+    <string name="filter_all">All</string>
+    <string name="filter_pending">Pending</string>
+    <string name="filter_section_94">94 BNSS</string>
+    <string name="filter_section_35">35(3) BNSS</string>
+
+    <string name="recent_notices">Recent Notices</string>
+
+    <string name="notice_94_type">SECTION 94 BNSS</string>
+    <string name="notice_94_number">CCN/2026/0001</string>
+    <string name="notice_94_details">FIR: FIR-145/2026 • Bank Statement and KYC Request</string>
+    <string name="notice_94_officer">ABC Payments Pvt. Ltd. • Insp. Anil Kumar</string>
+
+    <string name="notice_35_type">SECTION 35(3) BNSS</string>
+    <string name="notice_35_number">CCN/2026/0002</string>
+    <string name="notice_35_details">FIR: FIR-147/2026 • Statement Recording Notice</string>
+    <string name="notice_35_officer">Rahul Traders • SI Priya Singh</string>
+
+    <string name="status_pending">PENDING</string>
+    <string name="status_completed">COMPLETED</string>
+
+    <string name="create_new_notice">+ CREATE NEW NOTICE</string>
+</resources>
